@@ -7,9 +7,6 @@ This repository contains a React project structured with two main folders: `fron
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
-- [Building the Project](#building-the-project)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Prerequisites
@@ -27,8 +24,32 @@ Follow the steps below to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Kunal1870/Food-Ordering-Project.git
+   cd Food-Ordering-Project
 2. **Install frontend dependencies:**
+   
+   ```bash
+   cd frontend
+   npm install
+3. **Install backend dependencies:**
 
+   ```bash
+   cd ../Backend-obfuscated
+   npm install
+
+## Running the Project
+
+### Running the Frontend
+
+1. **Navigate to the Backend-obfuscated directory:**
+
+   ```bash
+   cd ../Backend-obfuscated
+   npm start
+
+2. **Navigate to the `frontend` directory:**
+
+   ```bash
+   cd frontend
+   npm start
    
