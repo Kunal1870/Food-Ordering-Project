@@ -39,8 +39,6 @@ Follow the steps below to set up the project locally:
 
 ## Running the Project
 
-### Running the Frontend
-
 1. **Navigate to the Backend-obfuscated directory:**
 
    ```bash
